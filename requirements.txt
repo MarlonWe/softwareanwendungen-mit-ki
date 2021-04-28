@@ -1,6 +1,5 @@
 pandas
 seaborn
 matplotlib
-sklearn
 yellowbrick
-stop-words
+notebook
